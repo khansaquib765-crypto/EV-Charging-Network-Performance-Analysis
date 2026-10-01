@@ -605,10 +605,12 @@ Executive Overview
 
 Stations & Charging Operations
 
+<img src="Stations and Charging Operation Dashboard.png" width="100%"><br><br>
 
 
 Station Performance Details
 
+<img src="Stations Information Details Dashboard.png" width="100%"><br><br>
 
 
 
