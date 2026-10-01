@@ -599,6 +599,8 @@ Preparing the cleaned dataset for DAX and visualization.
 
 Executive Overview
 
+<img src="Executive Performance Dashboard.png" width="100%"><br><br>
+
 
 
 Stations & Charging Operations
